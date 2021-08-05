@@ -8,6 +8,6 @@ Billboard and Spotify are two very different music companies, but both have thei
 
 To conduct our analysis, we used audio data (via Spotify) and charting data (via Billboard.com) of the weekly Hot 100 singles chart from 8/2/1958 and 12/28/2019. We decided to use only the data from 2005 to 2015, to keep our data concise.
 
-In terms of our broader research, we had two goals. Firstly, we decided to analyze the common characteristics amongst songs that reach the top 10 on the Billboard Hot 100. More specifically, we looked into what the common characteristics were between the songs that maintained their top 10 position on the Billboard Hot 100 for over 15* weeks. Secondly, we wanted to analyze the correlation between the number of weeks on the Billboard Hot 100 chart and the highest position on the Hot 100. We also looked into whether there was a correlation between Spotify's `popularity` attribute and `peak_position` from the Billboard data.\n",
-    "\n",
-    "<em> *this number was later adjusted based on our exploratory analysis</em>"
+In terms of our broader research, we had two goals. Firstly, we decided to analyze the common characteristics amongst songs that reach the top 10 on the Billboard Hot 100. More specifically, we looked into what the common characteristics were between the songs that maintained their top 10 position on the Billboard Hot 100 for over 15* weeks. Secondly, we wanted to analyze the correlation between the number of weeks on the Billboard Hot 100 chart and the highest position on the Hot 100. We also looked into whether there was a correlation between Spotify's `popularity` attribute and `peak_position` from the Billboard data.
+
+"<em> *this number was later adjusted based on our exploratory analysis</em>"
